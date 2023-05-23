@@ -1,7 +1,7 @@
 export default function Post2() {
 	return (
 		<>
-			<h1>Adding Comments to a NextJS Blog</h1>
+			<h1>How to add type safety for Links in Next.js 13 with Typescript</h1>
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 				dolore magna aliqua. Sit amet porttitor eget dolor morbi non arcu. Rhoncus dolor purus non enim praesent
